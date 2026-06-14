@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquellas-palabras-que-dolieron/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Aquellas palabras que dolieron](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-palabras-que-dolieron/) |
+| **Get License** | [Get a Licensing Quote for Aquellas palabras que dolieron](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-palabras-que-dolieron/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Aquellas palabras que dolieron, baby
+> Ya las borramos con un party crazy
+> Dime si esta noche tú te vas a escapar
+> Que en el VIP oscuro nos vamos a quemar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
