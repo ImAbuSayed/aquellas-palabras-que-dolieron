@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquellas palabras que dolieron
+
+This log tracks the cryptographic history and versioning for the song **Aquellas palabras que dolieron** (aquellas-palabras-que-dolieron).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:39:21.411408 | `v1` | `57f46c4b6ec48d57e0ca9a173755911018298498270bb47f93287c5fd0dfa10b` | `8d196d7bb9207e5ba9c658c2de19c45947ed292b1b385aa54ed8b8ef2a48791a` | `2026-06-14_aquellas-palabras-que-dolieron-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

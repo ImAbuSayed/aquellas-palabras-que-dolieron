@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquellas-palabras-que-dolieron/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Aquellas palabras que dolieron](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-palabras-que-dolieron/) |
+| **Get License** | [Get License For Aquellas palabras que dolieron](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-palabras-que-dolieron/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `57f46c4b6ec48d57e0ca9a173755911018298498270bb47f93287c5fd0dfa10b` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
